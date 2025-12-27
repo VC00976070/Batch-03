@@ -8,6 +8,7 @@
   - [TOC](#toc)
   - [Overview](#overview)
   - [Prerequisites](#prerequisites)
+  - [city: madurai](#city-madurai)
   - [System Requirements](#system-requirements)
   - [Install Zoom Desktop Client](#install-zoom-desktop-client)
   - [Create Account or Sign In](#create-account-or-sign-in)
@@ -36,7 +37,7 @@ Before installation, ensure the following:
 - line 37
 - line 38
 - line 39
-city: coimbatore
+city: madurai
 
 ---
 
