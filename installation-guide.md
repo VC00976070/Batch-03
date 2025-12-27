@@ -34,6 +34,8 @@ Before installation, ensure the following:
 - You have administrator rights on your device
 - Your operating system is compatible
 - line 37
+- line 38
+- line 39
 
 ---
 
