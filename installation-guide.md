@@ -33,7 +33,7 @@ Before installation, ensure the following:
 - You have access to a reliable internet connection
 - You have administrator rights on your device
 - Your operating system is compatible
-- this is line 36
+- line 37
 
 ---
 
