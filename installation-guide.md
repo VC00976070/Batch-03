@@ -36,6 +36,7 @@ Before installation, ensure the following:
 - line 37
 - line 38
 - line 39
+city: coimbatore
 
 ---
 
